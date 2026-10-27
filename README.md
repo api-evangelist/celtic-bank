@@ -64,5 +64,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Celtic Bank is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://celticbank.com/
+Celtic Bank provides commercial financing solutions, specializing in SBA loans, construction financing, asset‑based lending, equipment leasing, and strategic financing for businesses across the United States. It serves small to midsize enterprises with tailored loan products, including SBA 7(a), SBA 504, and industry‑specific financing, and offers fintech solutions and partnership programs to support growth and development.
+
+**Areas:** Company · Finance · SBA Loans · Commercial Lending · Fintech
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://celticbank.com/)
+- [Documentation](https://www.celticbank.com/resources?format=posts)
+- [Blog](https://www.celticbank.com/resources?format=posts)
+- [Terms of service](https://www.celticbank.com/terms-conditions)
+- [Privacy policy](https://www.celticbank.com/privacy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/celtic-bank/](https://apis.io/providers/celtic-bank/).
